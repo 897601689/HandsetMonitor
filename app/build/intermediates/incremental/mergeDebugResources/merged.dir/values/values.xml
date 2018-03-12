@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="belize_hole">#2980b9</color>
+    <color name="emerald">#2ecc71</color>
+    <color name="nephritis">#27ae60</color>
+    <color name="turquoise">#1abc9c</color>
+    <color name="white">#ecf0f1</color>
+    <color name="wisteria">#8e44ad</color>
+    <declare-styleable name="SettingItem"><attr format="string" name="label"/><attr format="string" name="text"/><attr format="color" name="labelColor"/><attr format="color" name="textColor"/><attr format="integer" name="labelSize"/><attr format="integer" name="textSize"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="About">About</string>
+    <string name="AboutApp">Version: V</string>
+    <string name="AboutCompany">Tianjin purui CO., Ltd</string>
+    <string name="ContactEmail">puruiyiqi@precisiontj.com</string>
+    <string name="Contact_Us">Contact Us</string>
+    <string name="Settings">Settings</string>
+    <string name="app_name">iMonitor</string>
+    <string name="areyousure">Are you sure to dial now ?  9:00—17:30(GMT+8 Beijing)</string>
+    <string name="berry_bluetooth_name">BerryMed</string>
+    <string name="connect_successfully">Already connect to </string>
+    <string name="contactTel">+86-022-83703933</string>
+    <string name="contactWebsite">www.precisiontj.com</string>
+    <string name="exit_tip">press again move to background</string>
+    <string name="later">Later</string>
+    <string name="paired">Paired</string>
+    <string name="research">Research</string>
+    <string name="strnull"/>
+    <string name="sure">Now</string>
+    <string name="tvCopyright">©2006-2014 Berry-med.com, All rights reserved.</string>
+    <string name="tvHRInvalid">- -</string>
+    <string name="tvHRUnit">bmp</string>
+    <string name="tvNIBPInvalid">- - -</string>
+    <string name="tvPRInvalid">- -</string>
+    <string name="tvPRUnit">bmp</string>
+    <string name="tvRespInvalid">- -</string>
+    <string name="tvRespUnit">bmp</string>
+    <string name="tvSpO2Invalid">- -</string>
+    <string name="tvSpO2Unit">%</string>
+    <string name="tvTempInvalid">- -.-</string>
+    <string name="unfinishedfunc">This function is being built.</string>
+    <string name="unknown_device">unknown device</string>
+    <string name="wait_for_connect">Wait a minute.</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>

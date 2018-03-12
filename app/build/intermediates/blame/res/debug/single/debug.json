@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_bt_device_item.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\bt_device_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_phone.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_spo2.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\spo2.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_config.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\config.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\anim_rcd_in_translate_top.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\anim\\rcd_in_translate_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_contactus.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\contactus.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_berry_bt_image.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\berry_bt_image.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh-rCN_logo.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-zh-rCN\\logo.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_left.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\anim\\slide_left.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_internet.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\internet.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bracket.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\bracket.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_config.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\config.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bluetooth.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\bluetooth.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_email.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\email.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_unknown_bt_image.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\unknown_bt_image.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_version.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\version.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_data_background_shape_clicked.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\data_background_shape_clicked.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_temp.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\temp.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_thermometer.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\thermometer.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_nibp.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\nibp.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_data_background_shape.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\data_background_shape.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dotted_line.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\dotted_line.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\record.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nibp.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\nibp.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\anim_bt_in_translate_top.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\anim\\bt_in_translate_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\anim_cfg_in_translate_top.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\anim\\cfg_in_translate_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_item_selector.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\setting_item_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_record.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\record.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_contact_us.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_bluetooth.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\bluetooth.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_company.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\company.png"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_ecg.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\ecg.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\settings.xml"
+    }
+]

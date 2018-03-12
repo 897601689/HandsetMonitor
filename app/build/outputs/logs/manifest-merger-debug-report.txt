@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:13:22-66
+application
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:15:5-52:19
+	android:label
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:17:9-38
+	android:allowBackup
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.berry_med.handsetmonitor.SplashActivity
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:screenOrientation
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:24:13-50
+	android:label
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:22:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.berry_med.handsetmonitor.MainActivity
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:31:9-35:20
+	android:screenOrientation
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:34:13-50
+	android:label
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:32:13-41
+activity#com.berry_med.handsetmonitor.SettingsActivity
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:36:9-40:20
+	android:screenOrientation
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:39:13-50
+	android:label
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:37:13-45
+activity#com.berry_med.handsetmonitor.ContactUsActivity
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:41:9-45:20
+	android:screenOrientation
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:44:13-50
+	android:label
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:42:13-46
+activity#com.berry_med.handsetmonitor.AboutActivity
+ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:46:9-50:20
+	android:screenOrientation
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:49:13-50
+	android:label
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from E:\Android\HandsetMonitor\app\src\main\AndroidManifest.xml:47:13-42
