@@ -31,8 +31,9 @@
     <!-- NIBP -->
     <string name="tvNIBPInvalid">- - -</string>
     
-    <string name="tvCopyright">©2006-2014 Berry-med.com, All rights reserved.</string>
-    
+    <string name="tvCopyright">  .</string>
+    <!--<string name="tvCopyright">©2006-2014 Berry-med.com, All rights reserved.</string>-->
+
     <!-- configure -->
     <string name="Settings">Settings</string>
     <string name="About">About</string>

@@ -1,1 +1,1 @@
-[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":130},"path":"AndroidManifest.xml","properties":{"packageId":"com.berry_med.handsetmonitor","split":"","minSdkVersion":"8"}}]
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":100},"path":"AndroidManifest.xml","properties":{"packageId":"com.berry_med.handsetmonitor","split":"","minSdkVersion":"8"}}]

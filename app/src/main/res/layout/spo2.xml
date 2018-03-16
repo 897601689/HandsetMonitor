@@ -2,87 +2,97 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical" >
-    
-    <LinearLayout 
+    android:orientation="vertical">
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
         android:layerType="hardware"
-        android:orientation="horizontal">
-        
-        <RelativeLayout 
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <RelativeLayout
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:gravity="center_horizontal|center_vertical"
             android:background="@drawable/data_background_shape"
-            >
-            <TextView 
-	            android:layout_width="wrap_content"
-	            android:layout_height="wrap_content"
-	            android:id="@+id/tvSpO2"
-	            android:text="@string/tvSpO2Invalid"
-	            android:textColor="@color/white"
-	            android:textSize="40sp"/>
-            <TextView 
+            android:gravity="center_horizontal|center_vertical">
+
+            <TextView
+                android:id="@+id/tvSpO2"
                 android:layout_width="wrap_content"
-	            android:layout_height="wrap_content"
-	            android:layout_toRightOf="@id/tvSpO2"
-	            android:layout_alignBottom="@id/tvSpO2"
-	            android:textSize="12sp"
-	            android:textColor="@color/white"
-	            android:text="@string/tvSpO2Unit"/>
+                android:layout_height="wrap_content"
+                android:text="@string/tvSpO2Invalid"
+                android:textColor="@color/white"
+                android:textSize="40sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/tvSpO2"
+                android:layout_toRightOf="@id/tvSpO2"
+                android:text="@string/tvSpO2Unit"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
         </RelativeLayout>
-        
-        <View 
+
+        <View
             android:layout_width="5dp"
             android:layout_height="match_parent"/>
-        
-        <RelativeLayout 
+
+        <RelativeLayout
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:gravity="center_horizontal|center_vertical"
             android:background="@drawable/data_background_shape"
-            >
-            <TextView 
-	            android:layout_width="wrap_content"
-	            android:layout_height="wrap_content"
-	            android:id="@+id/tvPR"
-	            android:text="@string/tvPRInvalid"
-	            android:textColor="@color/white"
-	            android:textSize="40sp"/>
-            <TextView 
+            android:gravity="center_horizontal|center_vertical">
+
+            <TextView
+                android:id="@+id/tvPR"
                 android:layout_width="wrap_content"
-	            android:layout_height="wrap_content"
-	            android:layout_toRightOf="@id/tvPR"
-	            android:layout_alignBottom="@id/tvPR"
-	            android:textSize="12sp"
-	            android:textColor="@color/white"
-	            android:text="@string/tvPRUnit"/>
+                android:layout_height="wrap_content"
+                android:text="@string/tvPRInvalid"
+                android:textColor="@color/white"
+                android:textSize="40sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/tvPR"
+                android:layout_toRightOf="@id/tvPR"
+                android:text="@string/tvPRUnit"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
         </RelativeLayout>
 
     </LinearLayout>
-    
-    <View 
-            android:layout_width="match_parent"
-            android:layout_height="15dp"/>
-    <LinearLayout 
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:visibility="gone" />
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="2"
-        android:padding="10dp"
-        android:background="@drawable/data_background_shape">
-        
-        <SurfaceView 
+        android:background="@drawable/data_background_shape"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SpO2" />
+
+        <SurfaceView
+            android:id="@+id/sfvSpO2Wave"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:id="@+id/sfvSpO2Wave"
-             android:layerType="hardware"
-            android:background="@color/nephritis"/>
-        
+            android:background="@color/nephritis"
+            android:layerType="hardware" />
+
     </LinearLayout>
-    
+
 
 </LinearLayout>

@@ -28,7 +28,7 @@ public class AboutActivity extends Activity implements OnClickListener
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
-		setContentView(layout.about);
+		setContentView(R.layout.about);
 		
 		
 		PackageManager manager = this.getPackageManager();
@@ -46,7 +46,7 @@ public class AboutActivity extends Activity implements OnClickListener
 		
 
 		rlAboutCompany   = (RelativeLayout) findViewById(R.id.rlAboutCompany);
-        
+		rlAboutApp =   (RelativeLayout) findViewById(R.id.rlAboutApp);
 	    rlAboutApp.setOnClickListener(this);
 		rlAboutCompany.setOnClickListener(this);
 		

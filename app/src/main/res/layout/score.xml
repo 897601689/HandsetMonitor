@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/nephritis"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/data_background_shape"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="睁眼动作" />
+
+            <RadioGroup
+                android:id="@+id/eye_rg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/eye1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="自动睁眼" />
+
+                <RadioButton
+                    android:id="@+id/eye2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="唤醒睁眼" />
+
+                <RadioButton
+                    android:id="@+id/eye3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="刺痛睁眼" />
+
+                <RadioButton
+                    android:id="@+id/eye4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="不睁眼" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/data_background_shape"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="语言反应" />
+
+            <RadioGroup
+                android:id="@+id/langue_rg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/langue1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="回答切题" />
+
+                <RadioButton
+                    android:id="@+id/langue2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="回答不切题" />
+
+                <RadioButton
+                    android:id="@+id/langue3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="答非所问" />
+
+                <RadioButton
+                    android:id="@+id/langue4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="只能发音" />
+
+                <RadioButton
+                    android:id="@+id/langue5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="不能言语" />
+            </RadioGroup>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/data_background_shape"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="运动反应" />
+
+            <RadioGroup
+                android:id="@+id/run_rg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/run1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="按吩咐运动" />
+
+                <RadioButton
+                    android:id="@+id/run2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="刺痛定位" />
+
+                <RadioButton
+                    android:id="@+id/run3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="刺痛躲避" />
+
+                <RadioButton
+                    android:id="@+id/run4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="刺痛屈曲" />
+
+                <RadioButton
+                    android:id="@+id/run5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="刺痛过度伸展" />
+
+                <RadioButton
+                    android:id="@+id/run6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="不能活动" />
+            </RadioGroup>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:background="@drawable/setting_item_selector"
+            android:gravity="center"
+            android:id="@+id/tvCancel"
+            android:text="取  消" />
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="200dp"
+            android:background="@drawable/setting_item_selector"
+            android:gravity="center"
+            android:id="@+id/tvOk"
+            android:text="确  定" />
+
+    </LinearLayout>
+</LinearLayout>

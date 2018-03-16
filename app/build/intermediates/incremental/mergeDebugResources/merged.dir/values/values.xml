@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="belize_hole">#2980b9</color>
+    <color name="black">#000000</color>
     <color name="emerald">#2ecc71</color>
     <color name="nephritis">#27ae60</color>
+    <color name="red">#C30202</color>
     <color name="turquoise">#1abc9c</color>
     <color name="white">#ecf0f1</color>
     <color name="wisteria">#8e44ad</color>
+    <color name="yellow">#DAaa02</color>
     <declare-styleable name="SettingItem"><attr format="string" name="label"/><attr format="string" name="text"/><attr format="color" name="labelColor"/><attr format="color" name="textColor"/><attr format="integer" name="labelSize"/><attr format="integer" name="textSize"/></declare-styleable>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
@@ -27,7 +30,7 @@
     <string name="research">Research</string>
     <string name="strnull"/>
     <string name="sure">Now</string>
-    <string name="tvCopyright">©2006-2014 Berry-med.com, All rights reserved.</string>
+    <string name="tvCopyright">  .</string>
     <string name="tvHRInvalid">- -</string>
     <string name="tvHRUnit">bmp</string>
     <string name="tvNIBPInvalid">- - -</string>
@@ -41,10 +44,14 @@
     <string name="unfinishedfunc">This function is being built.</string>
     <string name="unknown_device">unknown device</string>
     <string name="wait_for_connect">Wait a minute.</string>
-    <style name="AppBaseTheme" parent="android:Theme.Light">
-        
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
 </resources>

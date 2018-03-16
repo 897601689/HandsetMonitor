@@ -28,6 +28,10 @@
         "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\berry_bt_image.png"
     },
     {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh-rCN_logo.png.flat",
         "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-zh-rCN\\logo.png"
     },
@@ -128,6 +132,10 @@
         "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\anim\\cfg_in_translate_top.xml"
     },
     {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_score.xml.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\score.xml"
+    },
+    {
         "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about.png.flat",
         "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\about.png"
     },
@@ -142,6 +150,10 @@
     {
         "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_contact_us.xml.flat",
         "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\HandsetMonitor\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\Android\\HandsetMonitor\\app\\build\\intermediates\\res\\merged\\debug\\layout_bluetooth.xml.flat",
